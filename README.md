@@ -1,8 +1,11 @@
-Hi,
+# Feed Reader Testing
 
-This project's goal is to test some functionalities of the app Feed Reader. To do this the library Jasmine.js was used.
+In this project I wrote comprehensive unit tests, using the Jasmine testing framework, for an RSS Feed Reader application that uses Google's RSS API.
 
-In order to check if the tests pass, open index.html with your favorite web browser and check on the bottom page. Green means pass. Red means doesn't pass.
+In order to access it in your browser:
 
-Check out Jasmine.js: http://jasmine.github.io/
+* click in the following link redirecting to my [Github Pages](http://bjlaa.github.io/feed-reader-testing) page for this project.
 
+or
+
+* download the zip file of my project on your computer and open index.html in your favorite browser
